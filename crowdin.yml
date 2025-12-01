@@ -1,0 +1,4 @@
+files:
+  - source: /Police Redefined
+    translation: /Police Redefined/CN/%file_name%%language%.%file_extension%
+    translate_attributes: 0
