@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VehicleSearchItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+   <RedItems>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a concealed handgun</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a small-caliber handgun</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">an untraceable compact firearm</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a lightweight pistol hidden in a jacket seam</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a long gun with a filed serial number</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact service pistol tucked into a boot</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a small revolver wrapped in cloth</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol frame with removed manufacturer marks</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a handgun with deliberately sanded serials</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a short-barrel service pistol</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">an unregistered handgun</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a compact rimfire pistol in a pocket</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol slide with scratched numbers</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a service-style pistol with worn grips</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a short-barrel pistol with removed markings</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a folding pistol tucked into a compartment</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a pocket-sized revolver concealed in a lining</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small pistol in a backpack</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a rifle receiver with defaced markings</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a pistol with an obliterated serial plate</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact tactical pistol stored in a case</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a revolver tucked in a coat</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a semi-automatic pistol with aftermarket grips</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a concealed single-shot pistol with removed stamps</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a lightweight pistol hidden in an ankle holster</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a single-stack pocket pistol stowed under lining</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="ScratchedSN">a short-barrel rifle with scratched serial area</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a full-size handgun with holster imprint</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol receiver with scratched identification</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="Normal">a compact firearm hidden inside clothing</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small semi-automatic pistol in a glove compartment</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a revolver with removed serial numbers</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">an undetectable handgun in a false bottom container</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a compact pistol in a coat pocket</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a vintage handgun with worn markings</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small-caliber revolver in a bag</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol with defaced manufacturer stamp</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a single-shot concealed firearm with filed serials</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a lightweight revolver hidden in a belt</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a pocket pistol tucked under papers</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a semi-auto pistol with aftermarket barrel</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a compact handgun with obliterated markings</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a small revolver in a shoulder holster</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a concealed pistol in a backpack compartment</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a rifle barrel with removed identification</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="Normal">a tiny handgun hidden inside shoes</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact pistol under a seat cushion</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a revolver hidden inside a jacket</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a semi-automatic pistol in a secret pocket</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a firearm frame with sanded serials</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small pistol in a drawer</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol with removed markings on slide</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a lightweight revolver inside a coat lining</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a short-barrel handgun in a bag pocket</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a compact pistol tucked in a car console</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">an untraceable semi-automatic pistol</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a pocket-sized revolver in a pouch</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small tactical pistol in a desk drawer</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a handgun with defaced serial plate</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="Normal">a concealed miniature pistol in clothing</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact revolver hidden in a backpack</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol receiver with sanded markings</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a small pistol tucked in a jacket seam</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a semi-auto pistol stored in a briefcase</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a compact handgun in a glove compartment</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a firearm with obliterated serial numbers</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a revolver hidden inside a coat pocket</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small semi-automatic in a backpack</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol slide with defaced markings</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a concealed firearm with filed numbers</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact pistol under seat padding</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a lightweight revolver in a belt holster</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a semi-auto pistol hidden in a drawer</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a handgun with intentionally scratched serials</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small revolver in a glove box</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol frame with removed serial plate</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a pocket pistol tucked in coat lining</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact service pistol inside a bag</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a rifle receiver with defaced identifiers</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a concealed pistol with obliterated markings</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a small revolver in a shoulder holster</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a tactical pistol hidden in a case</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a folding pistol tucked under seat</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">an untraceable single-shot handgun</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact .22 rimfire pistol</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a vintage pocket revolver with patina</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a polymer-frame striker-fired pistol</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a service pistol with surface dents</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a full-size service pistol</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a compact alloy-frame pistol</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a striker-fired compact handgun</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a small revolver with worn finish</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a lightweight service-style pistol</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact full-metal semi-automatic pistol</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a target pistol with upgraded sights</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a small-caliber alloy revolver</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a service pistol with polymer grips</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a compact carry pistol showing wear</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a standard-issue styled handgun</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a small semi-automatic pocket pistol</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol with a cracked grip</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact single-stack service pistol</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a double-action revolver with short barrel</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a refurbished small-frame handgun</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a high-capacity full-size pistol</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a compact steel-framed pistol with scratches</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a small-caliber training pistol</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a service-style pistol with polymer grips</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a competition pistol with extended magazine</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a compact alloy revolver</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small semi-automatic with new finish</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a lightweight pistol with faded bluing</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact tactical-style pistol</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a six-shot small-frame revolver</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a pistol with a bent slide</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a medium-frame semi-automatic handgun</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a small revolver with fixed sights</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a restored wartime-era service pistol</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact full-metal framed pistol</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a lightweight alloy-frame carry pistol</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a small revolver with oxidized finish</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a standard compact duty pistol</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a sport pistol with custom trigger</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a pocket-sized semi-automatic pistol</Item>
+
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a scoped bolt-action hunting rifle in a padded case</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a compact patrol carbine with a worn sling</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a bolt-action marksman rifle with sanded serial area</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a suppressed precision sniper rifle with obliterated serial plate</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a takedown hunting rifle tucked in a hard tube</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a short-barrel carbine with aftermarket sights</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a semi-auto hunting rifle with a worn stock</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a long-range tactical rifle with removed maker stamps</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a lever-action rifle hidden beneath blankets</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a compact DMR with folding stock in a duffel</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a rifle receiver with defaced identification marks</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a lightweight varmint rifle with a leather sling</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a service-grade carbine stored in a trunk</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a short-action precision rifle fitted with a bipod</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">an anti-materiel style rifle with intentionally scratched serials</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a traditional hunting rifle wrapped in oilcloth</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">an SBR-style patrol rifle rolled in canvas</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a sniper barrel assembly with filed markings</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a scoped bolt-action training rifle in a closet</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a beat-up carbine used for range drills</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a semi-automatic precision rifle with worn rail</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a clandestine long-range rifle with removed serial plate</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a takedown survival rifle compacted in a tube</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a patrol carbine with optics in a soft case</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a rifle barrel with defaced serial area</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a small-frame hunting carbine stashed behind crates</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a service-style DMR with a worn muzzle protector</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a precision varmint rifle with a tuned trigger</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a compact bullpup sniper rifle with removed maker marks</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a scoped bolt-action rifle in a padded transport case</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a precision hunting rifle with a matte finish</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a carbine-length patrol rifle with iron sights</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a scoped rifle receiver with worn identification</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a custom-built sniper rifle with obscured serials</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a bolt-action marksman rifle stored in foam lining</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a short carbine wrapped in burlap for storage</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a precision rifle with adjustable cheek rest</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a long-range rifle with polished barrel and filed area</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a lever-action brush rifle with a wood finish</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a compact hunting rifle with a nylon sling</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a precision rifle chassis with faint serial impressions</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a lightweight scout rifle balanced for quick handling</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a semi-automatic carbine with a basic scope</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a hunting rifle fitted with a bipod and sling</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a precision DMR with serials sanded off</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a takedown .22 survival rifle folded in a case</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a short tactical rifle in a nylon scabbard</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a sniper rifle receiver with light abrasion over numbers</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a classic bolt-action hunting rifle in oiled wood</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a carbine-length rifle used for range practice</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a precision rifle with an adjustable bipod</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a suppressed bolt-action rifle with faint markings</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a scoped carbine with weather-resistant coating</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a patrol rifle with worn polymer furniture</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a precision barrel group with faint engraving</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a bolt-action rifle secured in a foam-lined case</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a short tactical carbine with folding sights</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a precision rifle with synthetic stock and sling mounts</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a long rifle with erased manufacturer details</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a varmint rifle fitted with mid-range optics</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a semi-auto DMR-style rifle with spare magazine</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a bolt assembly with abraded identification</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact deer rifle with scope caps</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a tactical rifle with worn handguard</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a marksman rifle with fixed stock and sling</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a modified long-range rifle missing serial stamp</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a hunting rifle with blued barrel and walnut stock</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a lightweight scout rifle stored in canvas wrap</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a precision receiver group with dulled engravings</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a sporting rifle with adjustable optics</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a carbine with two-point sling and iron sights</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a long hunting rifle with padded leather strap</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a precision marksman rifle with removed serial etching</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a compact bolt-action rifle in a foam insert</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a polymer-framed patrol rifle in standard case</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="Normal">a lightweight varmint rifle with bipod legs</Item>
+      <Item xsi:type="Firearm" Chance="VeryRare" FirearmState="ScratchedSN">a precision sniper platform with worn serial stamp</Item>
+      <Item xsi:type="Firearm" Chance="Normal" FirearmState="Normal">a traditional bolt-action rifle stored in hard plastic case</Item>
+      <Item xsi:type="Firearm" Chance="Often" FirearmState="Normal">a mid-length rifle with padded sling and foregrip</Item>
+      <Item xsi:type="Firearm" Chance="Rare" FirearmState="ScratchedSN">a hunting rifle receiver with sanded identifier</Item>
+
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a folded foil with fentanyl residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">a wrapped bundle of heroin</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a small baggie of cocaine</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="PCP">a vial containing PCP solution</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Oxycodone">a stash of illicit oxycodone pills</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">a bottle of mislabelled hydrocodone</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Fentanyl">a tiny heat-sealed sachet with fentanyl traces</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a burn-marked spoon with brown residue (heroin)</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Cocaine">multiple tiny heat-sealed vials containing white powder (cocaine)</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="PCP">a small blister vial with oily liquid suspected to be PCP</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Oxycodone">loose pills stamped with common oxycodone markings</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Hydrocodone">blister packs removed from original packaging containing hydrocodone tablets</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a resin-stained paper square with fentanyl traces</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a small folded cigarette paper with heroin residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a straw and a folded banknote with white powder traces (cocaine)</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="PCP">a soaked cotton swab in a sealed bag with PCP residue</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Oxycodone">a small prescription bottle relabeled and containing oxycodone</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">loose hydrocodone tablets wrapped in cling film</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a pressed tablet with fentanyl trace coloring</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">several tiny heroin packets folded inside paper</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a small tin containing white crystalline residues (cocaine)</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="PCP">a cigarette soaked in PCP solution tucked in a pack</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Oxycodone">pills counted and wrapped in foil</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Hydrocodone">a sealed foil with stamped hydrocodone tablets</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a tiny vial of clear liquid with fentanyl indicator tape</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a heat-sealed foil parcel with dark powder (heroin)</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cocaine">a rolled-up paper tube with white powder residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="PCP">a small plastic bag of crystalline lumps with PCP labeling</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Hydrocodone">a small pouch of assorted hydrocodone tablets</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Fentanyl">a tiny paper square with faint fentanyl residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">a folded cigarette with dark heroin residue</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a small bag containing white crystalline powder</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a crushed tablet with faint fentanyl residue</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Oxycodone">a vial of blue pills marked as oxycodone</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">a half-empty bottle of hydrocodone capsules</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a tin with brown powder residue (heroin)</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a rolled-up banknote with cocaine traces</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="PCP">a small foil packet with PCP solution</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Fentanyl">a heat-sealed sachet labeled with fentanyl warning</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Oxycodone">a stack of loose pills stamped with oxycodone identifiers</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Hydrocodone">a blister pack of hydrocodone tablets missing original packaging</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a folded piece of paper with heroin residue</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cocaine">a small tin containing white powder traces</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="PCP">a vial of oily PCP liquid with a broken seal</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Fentanyl">a small paper square dusted with fentanyl powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">a bundle of heroin in tiny heat-sealed sachets</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Oxycodone">a prescription bottle with altered labels containing oxycodone</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">loose hydrocodone pills wrapped in foil</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a tiny capsule with visible fentanyl residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a folded paper straw with white powder (cocaine)</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Heroin">a syringe containing brown heroin solution</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="PCP">a small vial labeled PCP with crystal fragments</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Oxycodone">a foil-wrapped stack of small pills</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Hydrocodone">blister packs of hydrocodone tablets removed from bottles</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a folded paper with powdery fentanyl residue</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a heat-sealed foil with dark brown heroin powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a rolled banknote with cocaine traces inside</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="PCP">a small cotton swab soaked in PCP solution</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Oxycodone">a small bottle of oxycodone with altered prescription label</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">a small quantity of hydrocodone tablets in a baggie</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a pressed fentanyl tablet with coloring residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">several heroin packets folded inside paper</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a tin containing white crystalline powder</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="PCP">a cigarette soaked in PCP tucked inside a pack</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Hydrocodone">a small bag of assorted hydrocodone pills</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Fentanyl">a small folded foil with fentanyl residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">a tiny heat-sealed packet of heroin powder</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cocaine">a small plastic bag containing cocaine crystals</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="PCP">a capped vial with PCP solution</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Oxycodone">a few loose oxycodone pills in a paper wrap</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Hydrocodone">a blister strip of hydrocodone tablets removed from bottle</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a small capsule with traces of fentanyl</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Heroin">a syringe pre-filled with brown heroin solution</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a folded paper with cocaine residue inside</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="PCP">a small plastic bag containing PCP crystals</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Oxycodone">a prescription bottle with tampered oxycodone pills</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">loose hydrocodone tablets wrapped in foil</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Fentanyl">a small heat-sealed foil containing fentanyl powder</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a burnt spoon with dark heroin residue</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Cocaine">several tiny vials of cocaine crystals</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="PCP">a small foil packet with PCP solution</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Oxycodone">a few loose oxycodone pills in a small baggie</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Hydrocodone">blister packs of hydrocodone tablets missing original labels</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a resin-stained paper square with fentanyl traces</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a small folded cigarette paper with heroin residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a straw and banknote with cocaine powder traces</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="PCP">a cotton swab soaked in PCP solution</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Oxycodone">a small prescription bottle of oxycodone pills</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">a half-empty bottle of hydrocodone capsules</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a pressed tablet with faint fentanyl residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">small packets of heroin folded in paper</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a small tin with white cocaine powder</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="PCP">a cigarette soaked in PCP solution</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Hydrocodone">a small bag of assorted hydrocodone tablets</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Fentanyl">a tiny paper square dusted with fentanyl powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">a folded cigarette with dark heroin residue</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a small bag containing white cocaine powder</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a crushed fentanyl tablet</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Oxycodone">a vial of blue oxycodone pills</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">loose hydrocodone tablets in a baggie</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a small tin with brown heroin powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a rolled banknote with cocaine traces</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="PCP">a small foil packet with PCP liquid</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Fentanyl">a heat-sealed sachet labeled fentanyl warning</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Oxycodone">a stack of loose oxycodone pills</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Hydrocodone">blister packs of hydrocodone tablets removed from bottles</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a foil packet with dark brown heroin powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">rolled-up paper with cocaine traces</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="PCP">a cotton swab soaked in PCP solution</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Oxycodone">a small bottle of oxycodone with tampered label</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Hydrocodone">a small quantity of hydrocodone tablets in a baggie</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Fentanyl">a pressed fentanyl tablet with coloring residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">several heroin packets folded inside paper</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a tin containing white cocaine powder</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="PCP">a cigarette soaked in PCP solution</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Hydrocodone">a small bag of assorted hydrocodone pills</Item>
+
+      <Item Chance="Rare">a loaded magazine</Item>
+      <Item Chance="Often">a spare magazine with follower stains</Item>
+      <Item Chance="Normal">a box of loose rounds</Item>
+      <Item Chance="VeryRare">a sealed packet of specialty ammunition</Item>
+      <Item Chance="Rare">a homemade suppressor</Item>
+      <Item Chance="Often">a suppressor baffle section wrapped in cloth</Item>
+      <Item Chance="Normal">a suppressor end cap with tool marks</Item>
+      <Item Chance="Rare">a ballistic vest plate</Item>
+      <Item Chance="Often">a soft armor vest panel</Item>
+      <Item Chance="Normal">a set of obsolete military rounds</Item>
+      <Item Chance="Rare">a disassembled pistol slide</Item>
+      <Item Chance="Normal">a trigger assembly stored in a pouch</Item>
+      <Item Chance="Rare">a holster with hidden compartment</Item>
+      <Item Chance="Often">a concealed weapon holster sewn into lining</Item>
+      <Item Chance="Rare">a small cleaning kit with solvent (weapon kit)</Item>
+      <Item Chance="VeryRare">a box of tracer rounds</Item>
+      <Item Chance="Normal">an extra pistol barrel</Item>
+      <Item Chance="Rare">a short rifle stock</Item>
+      <Item Chance="Often">a set of armor-piercing styled rounds (unlabelled)</Item>
+      <Item Chance="Normal">a magazine loader device</Item>
+      <Item Chance="Rare">a pistol conversion kit component</Item>
+      <Item Chance="Often">a bag of spent casings</Item>
+      <Item Chance="Normal">a rifle sling with hidden pouch</Item>
+      <Item Chance="Rare">a small roll of gun-cleaning patches</Item>
+      <Item Chance="VeryRare">a silencer mounting adapter</Item>
+      <Item Chance="Rare">a compact bipod folded in fabric</Item>
+      <Item Chance="Often">a set of aftermarket sights</Item>
+      <Item Chance="Normal">a chamber flag and inspection tool</Item>
+      <Item Chance="Rare">a sealed envelope containing odd gun parts</Item>
+      <Item Chance="Often">an optic mount rail section</Item>
+      <Item Chance="Normal">a compact red dot sight with scratched lens</Item>
+      <Item Chance="Rare">an illuminated scope reticle module</Item>
+      <Item Chance="VeryRare">a high-power variable scope in a padded sleeve</Item>
+      <Item Chance="Normal">an extra firing pin assembly</Item>
+      <Item Chance="Rare">a spare extractor and ejector kit</Item>
+      <Item Chance="Often">a speedloader for revolvers</Item>
+      <Item Chance="Normal">a set of snap caps for dry-fire practice</Item>
+      <Item Chance="Rare">an extended-capacity drum magazine</Item>
+      <Item Chance="VeryRare">a factory-sealed box of match-grade ammunition</Item>
+      <Item Chance="Often">a pair of magazine pouches sewn into a belt</Item>
+      <Item Chance="Normal">a canvas ammo can with loose rounds</Item>
+      <Item Chance="Rare">a bayonet with rust spots</Item>
+      <Item Chance="Often">a muzzle brake/compensator with tool marks</Item>
+      <Item Chance="Normal">a polymer pistol grip replacement</Item>
+      <Item Chance="Rare">a buffer tube and spring assembly</Item>
+      <Item Chance="VeryRare">a precision match barrel in a hard case</Item>
+      <Item Chance="Normal">a set of sight adjustment tools</Item>
+      <Item Chance="Rare">a small packet of lubricant and bore cleaner</Item>
+      <Item Chance="Often">a sling swivel and quick-detach sling mount</Item>
+      <Item Chance="Normal">a set of gun cleaning brushes</Item>
+      <Item Chance="Rare">a spare bolt carrier group</Item>
+      <Item Chance="Often">a folding foregrip with scratches</Item>
+      <Item Chance="VeryRare">a night-vision scope attachment</Item>
+      <Item Chance="Normal">a set of spare springs for pistols</Item>
+      <Item Chance="Rare">a compact suppressor baffle stack</Item>
+      <Item Chance="Often">a pack of polymer-coated rounds</Item>
+      <Item Chance="Normal">a small gun maintenance mat</Item>
+      <Item Chance="Rare">a trigger upgrade kit</Item>
+      <Item Chance="VeryRare">a factory-pack of match-grade sniper rounds</Item>
+      <Item Chance="Often">a pair of pistol magazines with wear marks</Item>
+      <Item Chance="Normal">a folding stock for a rifle</Item>
+      <Item Chance="Rare">a replacement bolt for a semi-auto rifle</Item>
+      <Item Chance="Often">a magazine sleeve with minor damage</Item>
+      <Item Chance="Normal">a set of rail covers</Item>
+      <Item Chance="Rare">a spare firing pin with storage case</Item>
+      <Item Chance="VeryRare">a precision-machined compensator in a foam case</Item>
+      <Item Chance="Normal">a small oil bottle for weapons</Item>
+      <Item Chance="Rare">an extended pistol magazine</Item>
+      <Item Chance="Often">a sling with quick-adjust buckle</Item>
+      <Item Chance="Normal">a spare safety selector lever</Item>
+      <Item Chance="Rare">a replacement trigger guard</Item>
+      <Item Chance="VeryRare">a high-end tactical scope with lens cover</Item>
+      <Item Chance="Normal">a set of replacement screws and pins</Item>
+      <Item Chance="Rare">a compact cleaning rod kit</Item>
+      <Item Chance="Often">a loaded speed strip for revolvers</Item>
+      <Item Chance="Normal">a small toolkit for scope adjustments</Item>
+      <Item Chance="Rare">a folding bipod with tension adjustment</Item>
+      <Item Chance="VeryRare">a box of high-velocity rifle ammunition</Item>
+      <Item Chance="Often">a small pouch of spare batteries for optics</Item>
+      <Item Chance="Normal">a set of sight leveling tools</Item>
+      <Item Chance="Rare">a custom pistol grip with ergonomic design</Item>
+      <Item Chance="Often">a cleaning kit pouch with brushes and rags</Item>
+      <Item Chance="Normal">a spare gas tube for AR-style rifles</Item>
+      <Item Chance="Rare">a precision recoil spring set</Item>
+      <Item Chance="VeryRare">a sealed package of armor-piercing rounds</Item>
+      <Item Chance="Normal">a small parts organizer for screws and pins</Item>
+      <Item Chance="Rare">a spare magazine follower set</Item>
+      <Item Chance="Often">a set of polymer rail attachments</Item>
+      <Item Chance="Normal">a barrel cleaning jag with patch kit</Item>
+      <Item Chance="Rare">a set of recoil pads for rifles</Item>
+      <Item Chance="VeryRare">a high-end red dot reflex sight in hard case</Item>
+      <Item Chance="Normal">a pouch of snap caps for safe dry fire</Item>
+      <Item Chance="Rare">a spare extractor and ejector pair</Item>
+      <Item Chance="Often">a compact set of gunsmith tools</Item>
+      <Item Chance="Normal">a small ammo can with loose pistol rounds</Item>
+      <Item Chance="Rare">a custom compensator for a pistol</Item>
+      <Item Chance="VeryRare">a precision match barrel in sealed tube</Item>
+      <Item Chance="Normal">a sling mount plate</Item>
+      <Item Chance="Rare">a pack of cleaning patches with oil residue</Item>
+      <Item Chance="Often">a quick-detach scope mount</Item>
+
+      <Item Chance="Rare">a forged government ID</Item>
+      <Item Chance="Often">a forged driver's licence</Item>
+      <Item Chance="Normal">a counterfeit national ID card</Item>
+      <Item Chance="VeryRare">a cloned credit card with embossed numbers</Item>
+      <Item Chance="Rare">a blank passport booklet</Item>
+      <Item Chance="Often">a falsified work ID badge</Item>
+      <Item Chance="Normal">a tampered vehicle registration document</Item>
+      <Item Chance="Rare">a fake social security card</Item>
+      <Item Chance="Often">a hologram sheet used for ID forgery</Item>
+      <Item Chance="Normal">a passport-style photo set for fake ID</Item>
+      <Item Chance="Rare">a card printer access badge</Item>
+      <Item Chance="Often">a collection of magnetic stripe encoders</Item>
+      <Item Chance="Normal">a set of blank credit card shells</Item>
+      <Item Chance="Rare">a package of pre-printed ID templates</Item>
+      <Item Chance="VeryRare">a burner SIM card pack with multiple numbers</Item>
+      <Item Chance="Often">a stack of copied utility bills for verification</Item>
+      <Item Chance="Normal">a small laminator and pouches</Item>
+      <Item Chance="Rare">a kit of office stamps with fictitious company names</Item>
+      <Item Chance="Normal">a forged bank letter</Item>
+      <Item Chance="Often">a set of scanned identity documents on a USB drive</Item>
+      <Item Chance="Rare">a credit-card skimming device</Item>
+      <Item Chance="VeryRare">a magnetic stripe reader/writer modified for cloning</Item>
+      <Item Chance="Normal">a packet of fake membership cards</Item>
+      <Item Chance="Often">a stack of altered receipts for laundering</Item>
+      <Item Chance="Rare">an improvised explosive device component</Item>
+      <Item Chance="Normal">a set of counterfeit security holograms</Item>
+      <Item Chance="Often">a pouch of forged vehicle number plates</Item>
+      <Item Chance="Rare">a microSD with encrypted identity data and templates</Item>
+      <Item Chance="VeryRare">a sealed envelope of forged notarized documents</Item>
+      <Item Chance="Normal">a compact badge-press stencil kit</Item>
+      <Item Chance="Rare">a forged sheriff's badge</Item>
+      <Item Chance="Often">a fake police ID card</Item>
+      <Item Chance="Normal">a counterfeit security clearance badge</Item>
+      <Item Chance="VeryRare">a cloned federal agency ID with hologram</Item>
+      <Item Chance="Rare">a forged detective badge</Item>
+      <Item Chance="Often">a set of altered law enforcement credentials</Item>
+      <Item Chance="Normal">a fake parking enforcement ID card</Item>
+      <Item Chance="Rare">a reproduced police department patch</Item>
+      <Item Chance="Often">a blank municipal ID card ready for printing</Item>
+      <Item Chance="Normal">a laminated traffic officer ID badge</Item>
+      <Item Chance="Rare">a forged federal law enforcement badge</Item>
+      <Item Chance="VeryRare">a complete police uniform kit for impersonation</Item>
+      <Item Chance="Often">a set of counterfeit security service ID cards</Item>
+      <Item Chance="Normal">a falsified courthouse access badge</Item>
+      <Item Chance="Rare">a replicated FBI badge with serial number</Item>
+      <Item Chance="VeryRare">a holographic police credentials overlay sheet</Item>
+      <Item Chance="Normal">a fake emergency responder ID</Item>
+      <Item Chance="Rare">a forged state trooper badge</Item>
+      <Item Chance="Often">a bundle of counterfeit municipal badges</Item>
+      <Item Chance="Normal">a fake probation officer ID card</Item>
+      <Item Chance="Rare">a forged detective shield with embossed numbers</Item>
+      <Item Chance="VeryRare">a complete set of impersonation police paraphernalia</Item>
+      <Item Chance="Normal">a blank sheriff's ID template with hologram layer</Item>
+      <Item Chance="Often">a pouch of altered city inspector badges</Item>
+      <Item Chance="Rare">a replicated customs officer badge</Item>
+      <Item Chance="VeryRare">a secure package containing multiple cloned badges</Item>
+      <Item Chance="Normal">a small set of fake auxiliary police IDs</Item>
+      <Item Chance="Rare">a forged K-9 handler badge</Item>
+      <Item Chance="Often">a set of counterfeit traffic warden badges</Item>
+      <Item Chance="Normal">a fake corrections officer ID card</Item>
+      <Item Chance="Rare">a recreated detective shield with engraved serials</Item>
+      <Item Chance="VeryRare">a hologram printer kit for ID forgery</Item>
+      <Item Chance="Normal">a compact badge embossing kit</Item>
+      <Item Chance="Rare">a forged parking enforcement shield</Item>
+      <Item Chance="Often">a small bundle of fake investigator ID cards</Item>
+      <Item Chance="Normal">a reproduced special agent badge</Item>
+      <Item Chance="Rare">a forged narcotics task force ID badge</Item>
+      <Item Chance="VeryRare">a sealed envelope of federal agency ID templates</Item>
+      <Item Chance="Normal">a set of fake court officer ID cards</Item>
+      <Item Chance="Rare">a recreated police department ID card with hologram</Item>
+      <Item Chance="Often">a stack of forged municipal employee ID cards</Item>
+      <Item Chance="Normal">a fake private security badge</Item>
+      <Item Chance="Rare">a forged border patrol ID card</Item>
+      <Item Chance="VeryRare">a package of multiple cloned federal badges</Item>
+      <Item Chance="Normal">a compact laminating kit for badge creation</Item>
+      <Item Chance="Rare">a forged detective's identification wallet</Item>
+      <Item Chance="Often">a pouch of fake emergency medical service badges</Item>
+      <Item Chance="Normal">a set of copied security company ID cards</Item>
+      <Item Chance="Rare">a forged police radio license document</Item>
+      <Item Chance="VeryRare">a sealed case of law enforcement impersonation materials</Item>
+      <Item Chance="Normal">a blank municipal access ID card</Item>
+      <Item Chance="Rare">a fake detective badge with serial engraving</Item>
+      <Item Chance="Often">a pouch of altered law enforcement auxiliary IDs</Item>
+      <Item Chance="Normal">a small kit of fake identification stamps</Item>
+
+      <Item Chance="Rare">a sealed bundle of high-denomination bills with no ID</Item>
+      <Item Chance="Often">a thick roll of strapped cash</Item>
+      <Item Chance="Normal">a small bag of loose foreign currency notes</Item>
+      <Item Chance="VeryRare">a concealed money belt with high-value notes</Item>
+      <Item Chance="Rare">a set of high-value watch replicas</Item>
+      <Item Chance="Often">a gold chain tucked into a sock</Item>
+      <Item Chance="Normal">a box containing several luxury wristwatches</Item>
+      <Item Chance="Rare">a small case of gold-plated cufflinks</Item>
+      <Item Chance="VeryRare">a sealed envelope with bearer bonds</Item>
+      <Item Chance="Normal">a bundle of prepaid gift cards</Item>
+      <Item Chance="Often">a velvet pouch with silver coins</Item>
+      <Item Chance="Rare">a small bar of stamped precious metal (unlabeled)</Item>
+      <Item Chance="Normal">a sealed wallet with multiple high-value banknotes</Item>
+      <Item Chance="Rare">a jeweller's appraisal tag and loose gemstones</Item>
+      <Item Chance="Often">a signed cheque worth a large amount</Item>
+      <Item Chance="Normal">a luxury handbag containing receipts and cash</Item>
+      <Item Chance="VeryRare">a sealed parcel of unmarked cash stacks</Item>
+      <Item Chance="Rare">a small tin of foreign gold coins</Item>
+      <Item Chance="Often">a collection of rare collectible coins in a case</Item>
+      <Item Chance="Normal">a laminated certificate for a high-value item</Item>
+      <Item Chance="Rare">a sealed box of high-denomination casino chips</Item>
+      <Item Chance="VeryRare">a compact safe deposit key on a keyring</Item>
+      <Item Chance="Often">a pouch of polished gemstones</Item>
+      <Item Chance="Normal">a vintage pocket watch in a protective sleeve</Item>
+      <Item Chance="Rare">a small leather folio containing stock certificates</Item>
+      <Item Chance="VeryRare">a sealed envelope with bearer checks</Item>
+      <Item Chance="Normal">a compact case of designer rings</Item>
+      <Item Chance="Rare">a watch-sized tracker device hidden with valuables</Item>
+      <Item Chance="Often">a bank transfer authorization slip with signatures</Item>
+      <Item Chance="Normal">a small velvet-lined jewellery case</Item>
+      <Item Chance="Rare">a sealed envelope with foreign currency</Item>
+      <Item Chance="Often">a bundle of rolled-up high-value notes</Item>
+      <Item Chance="Normal">a small tin of collectible coins</Item>
+      <Item Chance="VeryRare">a concealed money pouch with rare bills</Item>
+      <Item Chance="Rare">a set of gold-plated cufflinks in a box</Item>
+      <Item Chance="Often">a silk pouch containing silver rings</Item>
+      <Item Chance="Normal">a small case of designer bracelets</Item>
+      <Item Chance="Rare">a compact bag with loose diamonds</Item>
+      <Item Chance="VeryRare">a sealed envelope containing unmarked banknotes</Item>
+      <Item Chance="Normal">a wallet with foreign bills and ID</Item>
+      <Item Chance="Often">a leather pouch with gold coins</Item>
+      <Item Chance="Rare">a small bar of unmarked platinum</Item>
+      <Item Chance="Normal">a sealed jewellery box with multiple rings</Item>
+      <Item Chance="Rare">a packet of loose gemstones with appraisal card</Item>
+      <Item Chance="Often">a cheque signed for a large amount</Item>
+      <Item Chance="Normal">a branded handbag with cash and receipts</Item>
+      <Item Chance="VeryRare">a hidden envelope with stacks of cash</Item>
+      <Item Chance="Rare">a small tin with gold sovereigns</Item>
+      <Item Chance="Often">a set of rare coins displayed in a case</Item>
+      <Item Chance="Normal">a framed certificate for high-value jewellery</Item>
+      <Item Chance="Rare">a box containing casino chips of high denomination</Item>
+      <Item Chance="VeryRare">a safe deposit key in a locked case</Item>
+      <Item Chance="Often">a pouch with polished semi-precious stones</Item>
+      <Item Chance="Normal">a vintage pocket watch with protective case</Item>
+      <Item Chance="Rare">a leather folio with stock certificates</Item>
+      <Item Chance="VeryRare">a sealed envelope of bearer checks</Item>
+      <Item Chance="Normal">a compact jewellery box with designer rings</Item>
+      <Item Chance="Rare">a small tracker device hidden among valuables</Item>
+      <Item Chance="Often">a bank transfer slip with signatures</Item>
+      <Item Chance="Normal">a velvet-lined box with collectible earrings</Item>
+      <Item Chance="Rare">a sealed envelope of rare stamps</Item>
+      <Item Chance="VeryRare">a stack of high-denomination unmarked bills</Item>
+      <Item Chance="Normal">a box of luxury cufflinks and tie clips</Item>
+      <Item Chance="Rare">a small pouch of rare coins</Item>
+      <Item Chance="Often">a leather coin purse with foreign currency</Item>
+      <Item Chance="Normal">a small tray with assorted costume jewellery</Item>
+      <Item Chance="Rare">a sealed envelope with rare collectible cards</Item>
+      <Item Chance="VeryRare">a compact safety deposit box key hidden in papers</Item>
+      <Item Chance="Normal">a designer wallet with multiple credit cards</Item>
+      <Item Chance="Rare">a small box of gold medallions</Item>
+      <Item Chance="Often">a pouch of semi-precious gemstones</Item>
+      <Item Chance="Normal">a jewelry pouch containing luxury earrings</Item>
+      <Item Chance="Rare">a sealed envelope with precious metal certificates</Item>
+      <Item Chance="VeryRare">a concealed cash briefcase with high-value bills</Item>
+      <Item Chance="Normal">a small tray with silver coins from different countries</Item>
+      <Item Chance="Rare">a pouch of unmarked gold coins</Item>
+      <Item Chance="Often">a collection of antique coins in protective sleeves</Item>
+      <Item Chance="Normal">a small box of costume rings and pins</Item>
+      <Item Chance="Rare">a sealed bag with rare collectible tokens</Item>
+      <Item Chance="VeryRare">a hidden pouch with a stack of unmarked bills</Item>
+      <Item Chance="Normal">a compact jewellery organizer with rings and bracelets</Item>
+      <Item Chance="Rare">a small tin with foreign gold coins</Item>
+      <Item Chance="Often">a pouch of polished gemstones ready for sale</Item>
+   </RedItems>
+
+   <YellowItems>
+      <Item Chance="Often" xsi:type="Weapon">a folding pocket knife</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a fixed-blade knife</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a set of brass knuckles</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a small baton</Item>
+      <Item Chance="Often" xsi:type="Weapon">a multitool with a sharp blade</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a folding tactical knife with holster</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a concealed push dagger</Item>
+      <Item Chance="Often" xsi:type="Weapon">a compact rescue knife (clip)</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a small machete in a sheath</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a set of throwing knives in a roll</Item>
+      <Item Chance="Often" xsi:type="Weapon">a pocket pry-bar</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a hatchet with a taped handle</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a pair of knuckle dusters in a pouch</Item>
+      <Item Chance="Often" xsi:type="Weapon">a small utility blade (box cutter)</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a rescue-style folding knife with seatbelt cutter</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a push dagger hidden in a sock</Item>
+      <Item Chance="Often" xsi:type="Weapon">a compact baton with foam grip</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a heavy-duty pocket knife with serrated edge</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a metal knuckle tool disguised as a keyring</Item>
+      <Item Chance="Often" xsi:type="Weapon">a small keychain blade</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a tactical pen with glass breaker tip</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a hidden knife sewn into a belt</Item>
+      <Item Chance="Often" xsi:type="Weapon">a spring-assisted folding knife</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a compact karambit-style knife</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a boot knife in a sheath</Item>
+      <Item Chance="Often" xsi:type="Weapon">a multitool plier with knife blade</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a small fixed neck knife on a cord</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a disguised lipstick knife</Item>
+      <Item Chance="Often" xsi:type="Weapon">a small telescopic baton</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a folding survival saw</Item>
+      <Item Chance="Often" xsi:type="Weapon">a small extendable pry bar</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a weighted sap (leather-wrapped)</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a compact rescue hook</Item>
+      <Item Chance="Often" xsi:type="Weapon">a credit-card-sized folding blade</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a telescoping glass breaker rod</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a heavy-duty pry knife</Item>
+      <Item Chance="Often" xsi:type="Weapon">a spring-loaded karambit</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a set of weighted throwing rings</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">a vintage cavalry saber in a scabbard</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a ballistic tomahawk</Item>
+      <Item Chance="Often" xsi:type="Weapon">a small camping axe with leather sheath</Item>
+      <Item Chance="Rare" xsi:type="Weapon">an improvised lead pipe wrapped in tape</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a compact kukri-style blade</Item>
+      <Item Chance="Often" xsi:type="Weapon">a pair of tactical gloves with knuckle plates</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a brass knuckle disguised inside a belt buckle</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">a ceremonial dagger with engraved blade</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a folding machete with locking mechanism</Item>
+      <Item Chance="Often" xsi:type="Weapon">a lightweight rescue pry bar (keychain)</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a set of small weighted bolas</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a compact neck knife in a molded sheath</Item>
+      <Item Chance="Often" xsi:type="Weapon">a tactical flashlight with strike bezel</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a folding spear tip attachment</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">an engraved hunting knife with bone handle</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a hatchet with reinforced head</Item>
+      <Item Chance="Often" xsi:type="Weapon">a heavy-duty pry bar keyring</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a concealed blade inside a shoe sole</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a short collapsible baton with clip</Item>
+      <Item Chance="Often" xsi:type="Weapon">a utility knife with replaceable blades</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a pair of weighted sap gloves</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">a custom engraved combat knife</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a small tactical hatchet with sheath</Item>
+      <Item Chance="Often" xsi:type="Weapon">a spring-assisted tactical pen knife</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a concealed wrist-mounted blade</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a folding saw with locking handle</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a weighted steel chain for defense</Item>
+      <Item Chance="Often" xsi:type="Weapon">a compact pry bar with grip tape</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a small machete for camping or survival</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a set of throwing stars in a soft pouch</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">an antique bayonet in a leather scabbard</Item>
+      <Item Chance="Often" xsi:type="Weapon">a tactical folding knife with glass breaker</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a small hatchet with reinforced handle</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a boot knife with molded sheath</Item>
+      <Item Chance="Often" xsi:type="Weapon">a multitool with serrated knife blade</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a credit-card-sized emergency knife</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a metal knuckle tool disguised as a belt accessory</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">a ceremonial sword with engraved scabbard</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a folding karambit-style knife</Item>
+      <Item Chance="Often" xsi:type="Weapon">a small rescue hook</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a spring-loaded push dagger</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a fixed-blade survival knife</Item>
+      <Item Chance="Often" xsi:type="Weapon">a compact pry tool keyring</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a weighted leather sap</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">a high-end hunting knife with bone handle</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a tactical folding saw</Item>
+      <Item Chance="Often" xsi:type="Weapon">a small telescopic baton</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a set of weighted bolas in a pouch</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a small kukri-style survival blade</Item>
+      <Item Chance="Often" xsi:type="Weapon">a tactical flashlight with reinforced bezel</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a concealed blade hidden in a boot</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">an engraved ceremonial dagger</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a folding machete with locking mechanism</Item>
+      <Item Chance="Often" xsi:type="Weapon">a spring-assisted rescue knife</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a set of throwing knives with weighted handles</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a compact neck knife with molded sheath</Item>
+      <Item Chance="Often" xsi:type="Weapon">a small extendable pry bar</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a telescopic glass breaker rod</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">a vintage cavalry saber with scabbard</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a ballistic tomahawk</Item>
+      <Item Chance="Often" xsi:type="Weapon">a camping axe with leather sheath</Item>
+      <Item Chance="Rare" xsi:type="Weapon">an improvised lead pipe wrapped in tape</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a compact kukri-style knife</Item>
+      <Item Chance="Often" xsi:type="Weapon">tactical gloves with knuckle plates</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a brass knuckle disguised as belt buckle</Item>
+      <Item Chance="VeryRare" xsi:type="Weapon">an engraved hunting knife with bone handle</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a hatchet with reinforced head</Item>
+      <Item Chance="Often" xsi:type="Weapon">a heavy-duty pry bar keyring</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a concealed blade inside a shoe sole</Item>
+      <Item Chance="Normal" xsi:type="Weapon">a collapsible baton with clip</Item>
+      <Item Chance="Often" xsi:type="Weapon">a utility knife with replaceable blades</Item>
+      <Item Chance="Rare" xsi:type="Weapon">a pair of weighted sap gloves</Item>
+
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Methamphetamine">a glass pipe with residue</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a syringe capped in a paper tube</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a spoon with burn marks</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="LSD">a small square of blotter paper</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a heat-sealed vape cartridge containing cannabis oil</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Adderall">a few loose amphetamine pills</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Ritalin">wrapped prescription pills without a bottle</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">multiple heat-sealed baggies</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Methamphetamine">a small tin of methamphetamine residue</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cannabis">a partially used pre-roll</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cannabis">a sealed gram bag of cannabis</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a small foil parcel with brown powder</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a folded paper with white powder traces</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="LSD">a small vial of concentrated blotter solution</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Adderall">a blister of amphetamine tablets (open)</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Ritalin">a packet of ground methylphenidate</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Methamphetamine">a small zip with crystal residue</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a folded note with traces of liquid morphine</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a sealed syringe with brown residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a single-use vial of cocaine (sealed)</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a small tin of compressed hash</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Methamphetamine">a glassine envelope with crystal fragments</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="LSD">a small perforated sheet of blotter tabs</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Adderall">an open bottle with a few pills missing</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cocaine">a tin with crystallized residue and scrape tool</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Ritalin">a few scored tablets wrapped in foil</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a small roll of cotton with morphine stains</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a heat-sealed foil of dark powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cannabis">a sealed vape cartridge in a paper sleeve</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Methamphetamine">a small foil pouch with crystal shards</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Morphine">a capped syringe with cloudy morphine liquid</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">a folded cigarette with heroin residue</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="LSD">a single perforated blotter tab</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a small bag of dried cannabis flower</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Adderall">a small stack of amphetamine capsules</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Ritalin">a blister pack with broken tablets</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a heat-sealed bag with white powder</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Methamphetamine">a small vial of high-purity meth crystals</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cannabis">a small cannabis resin block</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cannabis">a pre-roll in a plastic tube</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a small tin with light brown powder</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a heat-sealed straw with residue</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="LSD">a small vial of concentrated liquid blotter</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Adderall">a few capsules spilled in a ziplock</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Ritalin">a crushed packet of methylphenidate powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Methamphetamine">a zip bag with crystal dust</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a folded paper with dried morphine stains</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a capped syringe with dark residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a small vial with crystallized powder</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a small tin of hashish</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Methamphetamine">a glassine envelope with small crystals</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="LSD">a sheet of microdots on blotter paper</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Adderall">a bottle missing several capsules</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cocaine">a small tin with residue and scraping tool</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Ritalin">a few scored tablets wrapped in foil</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a small cotton roll with liquid morphine traces</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a heat-sealed foil with dark brown powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cannabis">a sealed vape pen with cannabis oil</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Methamphetamine">a tiny foil packet with crystal residue</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Morphine">a capped syringe with amber liquid</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">a folded cigarette with dark residue</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="LSD">a small blotter tab still in its wrapper</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a small bag of cured cannabis buds</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Adderall">a sealed foil of amphetamine capsules</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Ritalin">a few loose methylphenidate tablets</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Methamphetamine">a small zip bag of crystal shards</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cocaine">a small tin of crystallized powder</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a folded piece of paper with morphine residue</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a heat-sealed vial of dark powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a small sealed bag of cocaine powder</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a tin of pressed hash</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Methamphetamine">a small vial of pure meth crystals</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="LSD">a vial of liquid LSD solution</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Adderall">a partially empty blister pack of pills</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Ritalin">a crushed packet of methylphenidate powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Methamphetamine">a heat-sealed foil of crystal dust</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a syringe with dried morphine residue</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a capped syringe with brown liquid</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a small vial of crystallized powder</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a small bag of cannabis kief</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Methamphetamine">a glassine envelope with crystals</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="LSD">a sheet of perforated blotter squares</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Adderall">an open bottle missing several capsules</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cocaine">a tin with residue and small scraper</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Ritalin">a few scored tablets in foil wrap</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a small cotton roll with morphine traces</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a heat-sealed foil with brown powder</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cannabis">a pre-roll in a paper tube</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Methamphetamine">a foil pouch with small crystals</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Morphine">a capped syringe with cloudy morphine</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Heroin">a folded cigarette with residue</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="LSD">a single blotter tab</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a bag of dried cannabis flower</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Adderall">a small stack of amphetamine capsules</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Ritalin">a blister pack with broken tablets</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a heat-sealed bag with white powder</Item>
+      <Item xsi:type="Drug" Chance="VeryRare" DrugType="Methamphetamine">a vial of high-purity meth crystals</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Cannabis">a small block of cannabis resin</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cannabis">a sealed pre-roll</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Heroin">a tin with light brown powder</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cocaine">a straw with residue</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="LSD">a vial of concentrated LSD liquid</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Adderall">a few capsules in a ziplock bag</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Ritalin">a crushed packet of methylphenidate</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Methamphetamine">a foil with crystal dust</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Morphine">a folded paper with morphine traces</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Heroin">a capped syringe with dark residue</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Cocaine">a small vial of crystallized powder</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="Cannabis">a tin of hashish</Item>
+      <Item xsi:type="Drug" Chance="Rare" DrugType="Methamphetamine">a glassine envelope with crystals</Item>
+      <Item xsi:type="Drug" Chance="Normal" DrugType="LSD">a sheet of microdots on blotter paper</Item>
+      <Item xsi:type="Drug" Chance="Often" DrugType="Adderall">an open bottle missing capsules</Item>
+
+      <Item Chance="Rare">a slim jim tool</Item>
+      <Item Chance="Rare">a set of lock picks in a small pouch</Item>
+      <Item Chance="Rare">bolt cutters with wear marks</Item>
+      <Item Chance="Rare">a ski mask folded in a back pocket</Item>
+      <Item Chance="Normal">two prepaid cellphones registered to different numbers</Item>
+      <Item Chance="Rare">a credit card skimming device</Item>
+      <Item Chance="Normal">a powerbank with modified wiring</Item>
+      <Item Chance="Normal">a thick roll of straps of cash</Item>
+      <Item Chance="Normal">a watch-sized tracker device</Item>
+      <Item Chance="Normal">a hand-drawn map with property markings</Item>
+      <Item Chance="Often">pepper spray</Item>
+      <Item Chance="Rare">a small crowbar</Item>
+      <Item Chance="Often">a compact first-aid sachet</Item>
+      <Item Chance="Normal">a small flashlight with a clipped carabiner</Item>
+      <Item Chance="Rare">a pair of nitrile gloves (unused)</Item>
+      <Item Chance="Often">a can of defensive spray (bear/defensive)</Item>
+      <Item Chance="Normal">a slim RFID-blocking cardholder</Item>
+      <Item Chance="Rare">a roll of duct tape with residue</Item>
+      <Item Chance="Normal">a small multitool with screwdriver bits</Item>
+      <Item Chance="Often">a compact thermal blanket</Item>
+      <Item Chance="Rare">a pair of wire cutters</Item>
+      <Item Chance="Normal">a small set of hex keys in a pouch</Item>
+      <Item Chance="Rare">a tow strap with abrasion marks</Item>
+      <Item Chance="Often">a compact hand-crank torch</Item>
+      <Item Chance="Normal">a small notebook and ballpoint pen</Item>
+      <Item Chance="Rare">a slim USB drive with encrypted files</Item>
+      <Item Chance="Often">a portable phone charger with multiple adapters</Item>
+      <Item Chance="Normal">a spare SIM card in labeled wrapper</Item>
+      <Item Chance="Rare">a small prybar with paint marks</Item>
+      <Item Chance="Often">a roll of cable ties</Item>
+      <Item Chance="Normal">a small compass with scratch marks</Item>
+      <Item Chance="Often">a pocket-sized magnifying glass</Item>
+      <Item Chance="Rare">a set of miniature screwdrivers</Item>
+      <Item Chance="Normal">a portable water filter straw</Item>
+      <Item Chance="Often">a compact survival whistle</Item>
+      <Item Chance="Rare">a lock combination decoder tool</Item>
+      <Item Chance="Normal">a pair of safety goggles</Item>
+      <Item Chance="Often">a compact camping stove burner</Item>
+      <Item Chance="Rare">a small firestarter kit in a tin</Item>
+      <Item Chance="Normal">a roll of waterproof tape</Item>
+      <Item Chance="Often">a compact folding shovel</Item>
+      <Item Chance="Rare">a small car escape tool (hammer/seatbelt cutter)</Item>
+      <Item Chance="Normal">a set of spare batteries (AA/AAA)</Item>
+      <Item Chance="Often">a pocket-sized binoculars</Item>
+      <Item Chance="Rare">a small GPS device</Item>
+      <Item Chance="Normal">a compact sewing kit</Item>
+      <Item Chance="Often">a travel-size bottle of hand sanitizer</Item>
+      <Item Chance="Rare">a miniature prybar set</Item>
+      <Item Chance="Normal">a whistle attached to a lanyard</Item>
+      <Item Chance="Often">a compact mirror in a plastic case</Item>
+      <Item Chance="Rare">a small lock pick set in leather case</Item>
+      <Item Chance="Normal">a penlight torch</Item>
+      <Item Chance="Often">a packet of emergency rations</Item>
+      <Item Chance="Rare">a small foldable crowbar</Item>
+      <Item Chance="Normal">a digital thermometer</Item>
+      <Item Chance="Often">a multi-connector charging cable</Item>
+      <Item Chance="Rare">a slim encrypted USB key</Item>
+      <Item Chance="Normal">a small spray bottle of cleaning solution</Item>
+      <Item Chance="Often">a compact microfiber cloth</Item>
+      <Item Chance="Rare">a miniature prybar with rubber grip</Item>
+      <Item Chance="Normal">a spare lighter</Item>
+      <Item Chance="Often">a compact notebook with coded entries</Item>
+      <Item Chance="Rare">a small set of lock-picking tension wrenches</Item>
+      <Item Chance="Normal">a small LED keychain light</Item>
+      <Item Chance="Often">a roll of thin rope or paracord</Item>
+      <Item Chance="Rare">a small electronic jammer device</Item>
+      <Item Chance="Normal">a compact screwdriver set</Item>
+      <Item Chance="Often">a pocket-sized first aid kit</Item>
+      <Item Chance="Rare">a pair of kevlar-reinforced gloves</Item>
+      <Item Chance="Normal">a small magnifying loupe</Item>
+      <Item Chance="Often">a foldable credit-card multitool</Item>
+      <Item Chance="Rare">a set of small electronic components</Item>
+      <Item Chance="Normal">a compact reflective emergency blanket</Item>
+      <Item Chance="Often">a small whistle with built-in compass</Item>
+      <Item Chance="Rare">a tiny prybar with engraved markings</Item>
+      <Item Chance="Normal">a roll of medical tape</Item>
+      <Item Chance="Often">a pocket-size multitool with pliers</Item>
+      <Item Chance="Rare">a small LED headlamp</Item>
+      <Item Chance="Normal">a travel-size notebook with pen loop</Item>
+      <Item Chance="Often">a compact set of measuring tools</Item>
+      <Item Chance="Rare">a small encrypted key fob</Item>
+      <Item Chance="Normal">a packet of waterproof matches</Item>
+      <Item Chance="Often">a mini folding knife with lanyard hole</Item>
+      <Item Chance="Rare">a small prybar with worn handle</Item>
+      <Item Chance="Often">a folding survival saw</Item>
+      <Item Chance="Normal">a compact multi-bit screwdriver</Item>
+      <Item Chance="Rare">a tactical pen with glass breaker</Item>
+      <Item Chance="Often">a small portable flashlight</Item>
+      <Item Chance="Normal">a set of spare AAA batteries</Item>
+      <Item Chance="Rare">a miniature lock-pick tension tool</Item>
+      <Item Chance="Often">a pocket-sized compass</Item>
+      <Item Chance="Normal">a small carabiner with keys</Item>
+      <Item Chance="Rare">a compact bolt cutter</Item>
+      <Item Chance="Normal">a travel-size first aid ointment</Item>
+      <Item Chance="Often">a mini prybar for electronics</Item>
+      <Item Chance="Rare">a small set of Allen wrenches</Item>
+      <Item Chance="Normal">a pocket-sized magnifying glass</Item>
+      <Item Chance="Often">a compact portable charger</Item>
+      <Item Chance="Rare">a slim multi-tool in leather pouch</Item>
+      <Item Chance="Normal">a small whistle on a keyring</Item>
+      <Item Chance="Often">a pocket notebook with coded notes</Item>
+      <Item Chance="Rare">a small pair of wire cutters</Item>
+      <Item Chance="Normal">a spare SIM card in protective sleeve</Item>
+      <Item Chance="Often">a compact folding shovel</Item>
+      <Item Chance="Rare">a tiny electronic lock bypass device</Item>
+      <Item Chance="Normal">a roll of small cable ties</Item>
+      <Item Chance="Often">a compact thermal blanket</Item>
+      <Item Chance="Rare">a set of miniature screwdrivers</Item>
+      <Item Chance="Normal">a small bottle of hand sanitizer</Item>
+      <Item Chance="Often">a travel-size reflective emergency blanket</Item>
+      <Item Chance="Rare">a compact GPS device</Item>
+      <Item Chance="Normal">a spare lighter in protective case</Item>
+      <Item Chance="Often">a small LED keychain torch</Item>
+      <Item Chance="Rare">a roll of duct tape with residue</Item>
+      <Item Chance="Normal">a compact sewing kit</Item>
+      <Item Chance="Often">a miniature prybar with rubber grip</Item>
+      <Item Chance="Rare">a small car escape tool (hammer/seatbelt cutter)</Item>
+      <Item Chance="Normal">a pocket-sized reflective mirror</Item>
+      <Item Chance="Often">a small foldable camping stove</Item>
+      <Item Chance="Rare">a set of electronic components</Item>
+      <Item Chance="Normal">a compact penlight torch</Item>
+      <Item Chance="Often">a pocket-sized magnifying loupe</Item>
+      <Item Chance="Rare">a small encrypted USB key</Item>
+      <Item Chance="Normal">a compact packet of waterproof matches</Item>
+      <Item Chance="Often">a mini folding knife with lanyard hole</Item>
+      <Item Chance="Rare">a pair of kevlar-reinforced gloves</Item>
+      <Item Chance="Normal">a small travel-size notebook with pen loop</Item>
+      <Item Chance="Often">a compact set of measuring tools</Item>
+      <Item Chance="Rare">a tiny prybar with engraved markings</Item>
+      <Item Chance="Normal">a roll of medical tape</Item>
+      <Item Chance="Often">a pocket multi-tool with pliers</Item>
+      <Item Chance="Rare">a small LED headlamp</Item>
+      <Item Chance="Normal">a compact reflective emergency whistle</Item>
+      <Item Chance="Often">a pocket-size set of hex keys</Item>
+      <Item Chance="Rare">a miniature lock pick kit in leather case</Item>
+      <Item Chance="Normal">a small portable water filter straw</Item>
+      <Item Chance="Often">a compact hand-crank torch</Item>
+   </YellowItems>
+
+   <GreenItems>
+      <Item Chance="Often">a wallet with a photo ID</Item>
+      <Item Chance="Often">a smartphone with a lockscreen notification</Item>
+      <Item Chance="Often">house keys on a branded keychain</Item>
+      <Item Chance="Often">a pack of cigarettes</Item>
+      <Item Chance="Often">a ballpoint pen</Item>
+      <Item Chance="Often">loose change in a coin pocket</Item>
+      <Item Chance="Normal">a transit pass or bus card</Item>
+      <Item Chance="Normal">a slim notebook with scribbled notes</Item>
+      <Item Chance="Normal">a pair of sunglasses in a soft case</Item>
+      <Item Chance="Normal">a paperback book</Item>
+      <Item Chance="Normal">a single boarding or event ticket</Item>
+      <Item Chance="Normal">an insulin pen (medical)</Item>
+      <Item Chance="Normal">a small bottle of hand sanitizer</Item>
+      <Item Chance="Rare">an official-looking work ID badge in a lanyard</Item>
+      <Item Chance="Normal">a folded receipt from a nearby store</Item>
+      <Item Chance="Normal">a small pack of gum or mints</Item>
+      <Item Chance="Normal">a low-capacity powerbank</Item>
+      <Item Chance="Normal">a pair of earbuds in a case</Item>
+      <Item Chance="Normal">a disposable face mask</Item>
+      <Item Chance="Normal">a small first-aid bandage pack</Item>
+      <Item Chance="Often">a key fob for a vehicle</Item>
+      <Item Chance="Normal">a folded metro map or timetable</Item>
+      <Item Chance="Normal">a penknife with small blade</Item>
+      <Item Chance="Rare">a small jewelry box with a ring inside</Item>
+      <Item Chance="Normal">a pack of sticky notes</Item>
+      <Item Chance="Often">a hair comb or small brush</Item>
+      <Item Chance="Normal">a small mirror compact</Item>
+      <Item Chance="Normal">a set of business cards in a case</Item>
+      <Item Chance="Often">a reusable shopping token</Item>
+      <Item Chance="Normal">a travel-size lotion bottle</Item>
+      <Item Chance="Normal">a folded handkerchief or tissue pack</Item>
+      <Item Chance="Rare">a small USB drive</Item>
+      <Item Chance="Normal">a folded map or tourist guide</Item>
+      <Item Chance="Normal">a small calculator</Item>
+      <Item Chance="Normal">a phone charging cable</Item>
+      <Item Chance="Often">a reusable coffee cup lid</Item>
+      <Item Chance="Normal">a compact sewing kit</Item>
+      <Item Chance="Normal">a pair of reading glasses in a case</Item>
+      <Item Chance="Normal">a small bottle of perfume or cologne</Item>
+      <Item Chance="Often">a keychain flashlight</Item>
+      <Item Chance="Normal">a wallet with loyalty cards</Item>
+      <Item Chance="Normal">a pair of gloves</Item>
+      <Item Chance="Normal">a folded plastic bag for groceries</Item>
+      <Item Chance="Rare">a small notebook with password hints</Item>
+      <Item Chance="Normal">a ticket stub holder</Item>
+      <Item Chance="Normal">a pack of playing cards</Item>
+      <Item Chance="Often">a small photo of family or friends</Item>
+      <Item Chance="Normal">a folded shopping list</Item>
+      <Item Chance="Normal">a tiny travel umbrella</Item>
+      <Item Chance="Normal">a bottle cap opener</Item>
+      <Item Chance="Rare">a small keepsake or charm</Item>
+      <Item Chance="Normal">a folded pair of socks</Item>
+      <Item Chance="Normal">a pair of spare shoelaces</Item>
+      <Item Chance="Normal">a folded paper with notes or doodles</Item>
+      <Item Chance="Often">a reusable straw in a case</Item>
+      <Item Chance="Normal">a small travel-size sunscreen</Item>
+      <Item Chance="Normal">a folded receipt organizer</Item>
+      <Item Chance="Normal">a pair of earbuds in a small pouch</Item>
+      <Item Chance="Normal">a small bottle of sanitizer wipes</Item>
+      <Item Chance="Normal">a pen or pencil with eraser</Item>
+      <Item Chance="Normal">a folded mask holder</Item>
+      <Item Chance="Rare">a small spare key hidden in a case</Item>
+      <Item Chance="Normal">a tiny bag of paper clips</Item>
+      <Item Chance="Normal">a small bottle of hand cream</Item>
+      <Item Chance="Normal">a folded note with important contacts</Item>
+      <Item Chance="Normal">a small cloth pouch with coins</Item>
+      <Item Chance="Normal">a compact mirror</Item>
+      <Item Chance="Normal">a folded metro or bus card holder</Item>
+      <Item Chance="Normal">a small lip balm tube</Item>
+      <Item Chance="Often">a reusable shopping card token</Item>
+      <Item Chance="Normal">a ticket envelope with event stub</Item>
+      <Item Chance="Normal">a folded paper with a grocery list</Item>
+      <Item Chance="Normal">a folded coupon booklet</Item>
+      <Item Chance="Normal">a small stapler</Item>
+      <Item Chance="Normal">a folded set of receipts</Item>
+      <Item Chance="Rare">a work ID badge in a protective sleeve</Item>
+      <Item Chance="Normal">a folded bus/train schedule</Item>
+      <Item Chance="Normal">a spare pen</Item>
+      <Item Chance="Normal">a small coin purse</Item>
+      <Item Chance="Normal">a small notebook with reminders</Item>
+      <Item Chance="Normal">a small folded paper with emergency contacts</Item>
+      <Item Chance="Normal">a folded grocery coupon</Item>
+      <Item Chance="Normal">a folded key holder</Item>
+      <Item Chance="Normal">a small paper tag from a store</Item>
+      <Item Chance="Normal">a compact makeup remover wipe</Item>
+      <Item Chance="Normal">a folded bus ticket</Item>
+      <Item Chance="Normal">a small foldable ruler</Item>
+      <Item Chance="Normal">a tiny sewing needle case</Item>
+      <Item Chance="Normal">a folded note from a colleague</Item>
+      <Item Chance="Normal">a small pad of sticky notes</Item>
+      <Item Chance="Normal">a folded printed map</Item>
+      <Item Chance="Normal">a small microfiber cloth</Item>
+      <Item Chance="Normal">a small safety pin case</Item>
+      <Item Chance="Normal">a folded paper money envelope</Item>
+      <Item Chance="Normal">a small folded poster or flyer</Item>
+      <Item Chance="Normal">a small folded ticket stub</Item>
+      <Item Chance="Normal">a spare metro card</Item>
+      <Item Chance="Normal">a folded train timetable</Item>
+      <Item Chance="Normal">a small folded list of contacts</Item>
+      <Item Chance="Normal">a folded bus map</Item>
+      <Item Chance="Normal">a small folded voucher</Item>
+      <Item Chance="Normal">a compact folded paper</Item>
+      <Item Chance="Normal">a folded small notebook</Item>
+      <Item Chance="Normal">a folded shopping receipt</Item>
+      <Item Chance="Normal">a folded note for reminders</Item>
+      <Item Chance="Normal">a folded paper scrap</Item>
+      <Item Chance="Normal">a small folded card</Item>
+      <Item Chance="Normal">a folded coupon</Item>
+      <Item Chance="Normal">a folded small flyer</Item>
+      <Item Chance="Normal">a small folded leaflet</Item>
+      <Item Chance="Normal">a folded instruction sheet</Item>
+      <Item Chance="Normal">a folded promotional card</Item>
+      <Item Chance="Normal">a folded printed note</Item>
+      <Item Chance="Normal">a folded reminder slip</Item>
+      <Item Chance="Normal">a folded memo</Item>
+      <Item Chance="Normal">a folded small schedule</Item>
+      <Item Chance="Normal">a folded small paper</Item>
+      <Item Chance="Normal">a folded handout</Item>
+      <Item Chance="Normal">a folded coupon sheet</Item>
+      <Item Chance="Normal">a folded event pass</Item>
+      <Item Chance="Normal">a folded notification slip</Item>
+      <Item Chance="Often">a wallet with a photo ID</Item>
+      <Item Chance="Often">a smartphone with a lockscreen notification</Item>
+      <Item Chance="Often">house keys on a branded keychain</Item>
+      <Item Chance="Often">a pack of cigarettes</Item>
+      <Item Chance="Often">a ballpoint pen</Item>
+      <Item Chance="Often">loose change in a coin pocket</Item>
+      <Item Chance="Normal">a transit pass or bus card</Item>
+      <Item Chance="Normal">a slim notebook with scribbled notes</Item>
+      <Item Chance="Normal">a pair of sunglasses in a soft case</Item>
+      <Item Chance="Normal">a paperback book</Item>
+      <Item Chance="Normal">a single boarding or event ticket</Item>
+      <Item Chance="Normal">an insulin pen (medical)</Item>
+      <Item Chance="Normal">a small bottle of hand sanitizer</Item>
+      <Item Chance="Rare">an official-looking work ID badge in a lanyard</Item>
+      <Item Chance="Normal">a folded receipt from a nearby store</Item>
+      <Item Chance="Normal">a small pack of gum or mints</Item>
+      <Item Chance="Normal">a low-capacity powerbank</Item>
+      <Item Chance="Normal">a pair of earbuds in a case</Item>
+      <Item Chance="Normal">a disposable face mask</Item>
+      <Item Chance="Normal">a small first-aid bandage pack</Item>
+      <Item Chance="Often">a key fob for a vehicle</Item>
+      <Item Chance="Normal">a folded metro map or timetable</Item>
+      <Item Chance="Normal">a penknife with small blade</Item>
+      <Item Chance="Rare">a small jewelry box with a ring inside</Item>
+      <Item Chance="Normal">a pack of sticky notes</Item>
+      <Item Chance="Often">a hair comb or small brush</Item>
+      <Item Chance="Normal">a small mirror compact</Item>
+      <Item Chance="Normal">a set of business cards in a case</Item>
+      <Item Chance="Often">a reusable shopping token</Item>
+      <Item Chance="Normal">a travel-size lotion bottle</Item>
+      <Item Chance="Normal">a folded handkerchief or tissue pack</Item>
+      <Item Chance="Rare">a small USB drive</Item>
+      <Item Chance="Normal">a folded map or tourist guide</Item>
+      <Item Chance="Normal">a small calculator</Item>
+      <Item Chance="Normal">a phone charging cable</Item>
+      <Item Chance="Often">a reusable coffee cup lid</Item>
+      <Item Chance="Normal">a compact sewing kit</Item>
+      <Item Chance="Normal">a pair of reading glasses in a case</Item>
+      <Item Chance="Normal">a small bottle of perfume or cologne</Item>
+      <Item Chance="Often">a keychain flashlight</Item>
+      <Item Chance="Normal">a wallet with loyalty cards</Item>
+      <Item Chance="Normal">a pair of gloves</Item>
+      <Item Chance="Normal">a folded plastic bag for groceries</Item>
+      <Item Chance="Rare">a small notebook with password hints</Item>
+      <Item Chance="Normal">a ticket stub holder</Item>
+      <Item Chance="Normal">a pack of playing cards</Item>
+      <Item Chance="Often">a small photo of family or friends</Item>
+      <Item Chance="Normal">a folded shopping list</Item>
+      <Item Chance="Normal">a tiny travel umbrella</Item>
+      <Item Chance="Normal">a bottle cap opener</Item>
+      <Item Chance="Rare">a small keepsake or charm</Item>
+      <Item Chance="Normal">a folded pair of socks</Item>
+      <Item Chance="Normal">a pair of spare shoelaces</Item>
+      <Item Chance="Normal">a folded paper with notes or doodles</Item>
+      <Item Chance="Often">a reusable straw in a case</Item>
+      <Item Chance="Normal">a small travel-size sunscreen</Item>
+      <Item Chance="Normal">a folded receipt organizer</Item>
+      <Item Chance="Normal">a pair of earbuds in a small pouch</Item>
+      <Item Chance="Normal">a small bottle of sanitizer wipes</Item>
+      <Item Chance="Normal">a pen or pencil with eraser</Item>
+      <Item Chance="Normal">a folded mask holder</Item>
+      <Item Chance="Rare">a small spare key hidden in a case</Item>
+      <Item Chance="Normal">a tiny bag of paper clips</Item>
+      <Item Chance="Normal">a small bottle of hand cream</Item>
+      <Item Chance="Normal">a folded note with important contacts</Item>
+      <Item Chance="Normal">a small cloth pouch with coins</Item>
+      <Item Chance="Normal">a compact mirror</Item>
+      <Item Chance="Normal">a folded metro or bus card holder</Item>
+      <Item Chance="Normal">a small lip balm tube</Item>
+      <Item Chance="Often">a reusable shopping card token</Item>
+      <Item Chance="Normal">a ticket envelope with event stub</Item>
+      <Item Chance="Normal">a folded paper with a grocery list</Item>
+      <Item Chance="Normal">a folded coupon booklet</Item>
+      <Item Chance="Normal">a small stapler</Item>
+      <Item Chance="Normal">a folded set of receipts</Item>
+      <Item Chance="Rare">a work ID badge in a protective sleeve</Item>
+      <Item Chance="Normal">a folded bus/train schedule</Item>
+      <Item Chance="Normal">a spare pen</Item>
+      <Item Chance="Normal">a small coin purse</Item>
+      <Item Chance="Normal">a small notebook with reminders</Item>
+      <Item Chance="Normal">a small folded paper with emergency contacts</Item>
+      <Item Chance="Normal">a folded grocery coupon</Item>
+      <Item Chance="Normal">a folded key holder</Item>
+      <Item Chance="Normal">a small paper tag from a store</Item>
+      <Item Chance="Normal">a compact makeup remover wipe</Item>
+      <Item Chance="Normal">a folded bus ticket</Item>
+      <Item Chance="Normal">a small foldable ruler</Item>
+      <Item Chance="Normal">a tiny sewing needle case</Item>
+      <Item Chance="Normal">a folded note from a colleague</Item>
+      <Item Chance="Normal">a small pad of sticky notes</Item>
+      <Item Chance="Normal">a folded printed map</Item>
+      <Item Chance="Normal">a small microfiber cloth</Item>
+      <Item Chance="Normal">a small safety pin case</Item>
+      <Item Chance="Normal">a folded paper money envelope</Item>
+      <Item Chance="Normal">a small folded poster or flyer</Item>
+      <Item Chance="Normal">a small folded ticket stub</Item>
+      <Item Chance="Normal">a spare metro card</Item>
+      <Item Chance="Normal">a folded train timetable</Item>
+      <Item Chance="Normal">a small folded list of contacts</Item>
+      <Item Chance="Normal">a folded bus map</Item>
+      <Item Chance="Normal">a small folded voucher</Item>
+      <Item Chance="Normal">a compact folded paper</Item>
+      <Item Chance="Normal">a folded small notebook</Item>
+      <Item Chance="Normal">a folded shopping receipt</Item>
+      <Item Chance="Normal">a folded note for reminders</Item>
+      <Item Chance="Normal">a folded paper scrap</Item>
+      <Item Chance="Normal">a small folded card</Item>
+      <Item Chance="Normal">a folded coupon</Item>
+      <Item Chance="Normal">a folded small flyer</Item>
+      <Item Chance="Normal">a small folded leaflet</Item>
+      <Item Chance="Normal">a folded instruction sheet</Item>
+      <Item Chance="Normal">a folded promotional card</Item>
+      <Item Chance="Normal">a folded printed note</Item>
+      <Item Chance="Normal">a folded reminder slip</Item>
+      <Item Chance="Normal">a folded memo</Item>
+      <Item Chance="Normal">a folded small schedule</Item>
+      <Item Chance="Normal">a folded small paper</Item>
+      <Item Chance="Normal">a folded handout</Item>
+      <Item Chance="Normal">a folded coupon sheet</Item>
+      <Item Chance="Normal">a folded event pass</Item>
+      <Item Chance="Normal">a folded notification slip</Item>
+      <Item Chance="Normal">a small folded loyalty card</Item>
+      <Item Chance="Normal">a compact folded business flyer</Item>
+      <Item Chance="Normal">a folded museum or gallery ticket</Item>
+      <Item Chance="Normal">a small folded receipt for a coffee</Item>
+      <Item Chance="Normal">a folded public transport timetable</Item>
+      <Item Chance="Normal">a folded small map of the city</Item>
+      <Item Chance="Normal">a folded pamphlet or brochure</Item>
+      <Item Chance="Normal">a folded appointment reminder</Item>
+      <Item Chance="Normal">a small folded gift card</Item>
+      <Item Chance="Normal">a folded instruction manual</Item>
+      <Item Chance="Normal">a folded postal receipt</Item>
+      <Item Chance="Normal">a small folded voucher booklet</Item>
+      <Item Chance="Normal">a folded small promotional leaflet</Item>
+      <Item Chance="Normal">a folded event invitation</Item>
+      <Item Chance="Normal">a small folded menu from a restaurant</Item>
+      <Item Chance="Normal">a folded schedule from a local event</Item>
+      <Item Chance="Normal">a folded gym or club card</Item>
+      <Item Chance="Normal">a small folded bus or train ticket</Item>
+      <Item Chance="Normal">a folded printed directions sheet</Item>
+      <Item Chance="Normal">a folded reminder note</Item>
+      <Item Chance="Normal">a small folded checklist</Item>
+      <Item Chance="Normal">a folded appointment card</Item>
+      <Item Chance="Normal">a folded receipt for groceries</Item>
+      <Item Chance="Normal">a folded small map insert</Item>
+      <Item Chance="Normal">a folded coupon for a café</Item>
+      <Item Chance="Normal">a folded small bill or invoice</Item>
+      <Item Chance="Normal">a folded ticket for public transport</Item>
+      <Item Chance="Normal">a folded memo note</Item>
+      <Item Chance="Normal">a folded reminder card</Item>
+      <Item Chance="Normal">a small folded promotional card</Item>
+      <Item Chance="Normal">a folded small sheet of notes</Item>
+      <Item Chance="Normal">a folded receipt stub</Item>
+      <Item Chance="Normal">a small folded parking ticket</Item>
+      <Item Chance="Normal">a folded membership card</Item>
+      <Item Chance="Normal">a folded note from a colleague</Item>
+      <Item Chance="Normal">a folded local map section</Item>
+      <Item Chance="Normal">a folded bus or subway token card</Item>
+      <Item Chance="Normal">a folded reminder slip</Item>
+      <Item Chance="Normal">a small folded promotional flyer</Item>
+      <Item Chance="Normal">a folded small timetable</Item>
+      <Item Chance="Normal">a folded note with contact info</Item>
+      <Item Chance="Normal">a folded coupon for a store</Item>
+      <Item Chance="Normal">a folded voucher for a café</Item>
+      <Item Chance="Normal">a folded memo slip</Item>
+      <Item Chance="Normal">a folded small sheet with doodles</Item>
+      <Item Chance="Normal">a folded small instruction card</Item>
+      <Item Chance="Normal">a folded ticket from a show</Item>
+      <Item Chance="Normal">a folded small schedule</Item>
+      <Item Chance="Normal">a folded small voucher</Item>
+      <Item Chance="Normal">a folded paper scrap</Item>
+      <Item Chance="Normal">a small folded gift voucher</Item>
+      <Item Chance="Normal">a folded receipt from a café</Item>
+      <Item Chance="Normal">a folded small note with reminders</Item>
+      <Item Chance="Normal">a folded schedule for a local event</Item>
+      <Item Chance="Normal">a small folded flyer</Item>
+      <Item Chance="Normal">a folded small promotional note</Item>
+      <Item Chance="Normal">a folded map insert for transit</Item>
+      <Item Chance="Normal">a folded tiny shopping list</Item>
+      <Item Chance="Normal">a folded small coupon booklet</Item>
+      <Item Chance="Normal">a folded ticket stub for an event</Item>
+      <Item Chance="Normal">a folded notice from a building manager</Item>
+      <Item Chance="Normal">a folded card with appointment info</Item>
+      <Item Chance="Normal">a folded leaflet from a local store</Item>
+      <Item Chance="Normal">a folded small note for errands</Item>
+      <Item Chance="Normal">a folded receipt for a train fare</Item>
+      <Item Chance="Normal">a folded paper with a to-do list</Item>
+      <Item Chance="Normal">a folded gym schedule</Item>
+      <Item Chance="Normal">a folded menu from a local eatery</Item>
+      <Item Chance="Normal">a folded small informational card</Item>
+      <Item Chance="Normal">a folded travel itinerary</Item>
+      <Item Chance="Normal">a folded leaflet for an event</Item>
+      <Item Chance="Normal">a folded ticket envelope</Item>
+      <Item Chance="Normal">a folded store promotion sheet</Item>
+      <Item Chance="Normal">a folded sheet with emergency numbers</Item>
+      <Item Chance="Normal">a folded reminder note for appointments</Item>
+      <Item Chance="Normal">a folded small coupon</Item>
+      <Item Chance="Normal">a folded handout from a store</Item>
+      <Item Chance="Normal">a folded public notice sheet</Item>
+      <Item Chance="Normal">a folded small reminder card</Item>
+      <Item Chance="Normal">a folded metro card holder</Item>
+      <Item Chance="Normal">a folded schedule for a public transport route</Item>
+      <Item Chance="Normal">a folded small instruction sheet</Item>
+      <Item Chance="Normal">a folded mini map for tourists</Item>
+      <Item Chance="Normal">a folded promotional flyer for a local business</Item>
+      <Item Chance="Normal">a folded ticket or voucher</Item>
+      <Item Chance="Normal">a folded small calendar page</Item>
+      <Item Chance="Normal">a folded sheet with contact info</Item>
+      <Item Chance="Normal">a folded mini poster</Item>
+      <Item Chance="Normal">a folded coupon sheet from a store</Item>
+      <Item Chance="Normal">a folded reminder slip with notes</Item>
+      <Item Chance="Normal">a folded promotional card for an event</Item>
+      <Item Chance="Normal">a folded tiny printed note</Item>
+      <Item Chance="Normal">a folded small memo sheet</Item>
+      <Item Chance="Normal">a folded tiny map segment</Item>
+      <Item Chance="Normal">a folded event flyer</Item>
+      <Item Chance="Normal">a folded small handout</Item>
+      <Item Chance="Normal">a folded reminder card for daily tasks</Item>
+      <Item Chance="Normal">a folded mini brochure</Item>
+      <Item Chance="Normal">a folded receipt from a convenience store</Item>
+      <Item Chance="Normal">a folded schedule from a class or seminar</Item>
+   </GreenItems>
+
+</VehicleSearchItems>
